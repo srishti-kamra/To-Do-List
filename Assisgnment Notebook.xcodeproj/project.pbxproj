@@ -12,6 +12,7 @@
 		4432FDD4297EDF5B00EC2F57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4432FDD3297EDF5B00EC2F57 /* Assets.xcassets */; };
 		4432FDD7297EDF5B00EC2F57 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4432FDD6297EDF5B00EC2F57 /* Preview Assets.xcassets */; };
 		4432FDDE2980311300EC2F57 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4432FDDD2980311300EC2F57 /* ToDoList.swift */; };
+		4432FDE02980342A00EC2F57 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4432FDDF2980342A00EC2F57 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4432FDD3297EDF5B00EC2F57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4432FDD6297EDF5B00EC2F57 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4432FDDD2980311300EC2F57 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		4432FDDF2980342A00EC2F57 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				4432FDCF297EDF5900EC2F57 /* Assisgnment_NotebookApp.swift */,
 				4432FDDD2980311300EC2F57 /* ToDoList.swift */,
+				4432FDDF2980342A00EC2F57 /* AddItemView.swift */,
 				4432FDD1297EDF5900EC2F57 /* ContentView.swift */,
 				4432FDD3297EDF5B00EC2F57 /* Assets.xcassets */,
 				4432FDD5297EDF5B00EC2F57 /* Preview Content */,
@@ -143,6 +146,7 @@
 				4432FDD2297EDF5900EC2F57 /* ContentView.swift in Sources */,
 				4432FDDE2980311300EC2F57 /* ToDoList.swift in Sources */,
 				4432FDD0297EDF5900EC2F57 /* Assisgnment_NotebookApp.swift in Sources */,
+				4432FDE02980342A00EC2F57 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
