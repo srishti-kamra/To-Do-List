@@ -26,5 +26,4 @@ class ToDoList: ObservableObject {
         }
         items = []
     }
-    
 }
